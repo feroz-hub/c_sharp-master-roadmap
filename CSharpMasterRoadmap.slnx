@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/01-Memory-Model/" />
+  <Folder Name="/01-Memory-Model/Examples/">
+    <Project Path="01-Memory-Model/Examples/MemoryModel.Examples/MemoryModel.Examples.csproj" />
+  </Folder>
+</Solution>
